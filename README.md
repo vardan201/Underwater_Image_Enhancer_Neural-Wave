@@ -256,4 +256,3 @@ pip install opencv-python numpy scipy scikit-image
 - Processing time scales with image resolution. Typical HD images process in under 5 seconds on a modern CPU.
 
 ---
-
