@@ -255,4 +255,3 @@ pip install opencv-python numpy scipy scikit-image
 - The algorithm is designed for **real underwater imagery**; results on synthetic or non-underwater images may vary.
 - Processing time scales with image resolution. Typical HD images process in under 5 seconds on a modern CPU.
 
----
