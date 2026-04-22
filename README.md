@@ -249,6 +249,8 @@ pip install opencv-python numpy scipy scikit-image
 
 ---
 
+Created By Vardan srivastava  , Harsh Agrawal , Yashraj Kumar.
+
 ## 📌 Notes
 
 - Input images should be in standard 8-bit BGR/RGB format (`.png`, `.jpg`, `.jpeg`).
